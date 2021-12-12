@@ -1,1 +1,2 @@
 # Final-Project-Adventure-Game
+This game is a about a person that woke up and they found out that there was nobody else in the world around them. When he starts to explore he is at his own city but throughout the game the choices lead to moving to other places like a different cities or states. When file Main.py runs it calls for chapter one to start then depending on the choices the folowing chapters then starts. Depending on the choices also different supplies are gained throught the game. 
